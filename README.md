@@ -6,8 +6,8 @@ MVP da disciplina de Análise de Dados da Pós Graduação em Ciência de Dados 
 
 Arquivos do dataset:
 
-[Arquivo "Team Stats Per Game](https://raw.githubusercontent.com/diogomattos1/mvp-analise-dados/dataset/Team%20Stats%20Per%20Game.csv)
+[Arquivo "Team Stats Per Game"](https://raw.githubusercontent.com/diogomattos1/mvp-analise-dados/dataset/Team%20Stats%20Per%20Game.csv)
 
-[Arquivo "Team Summaries](https://raw.githubusercontent.com/diogomattos1/mvp-analise-dados/dataset/Team%20Summaries.csv)
+[Arquivo "Team Summaries"](https://raw.githubusercontent.com/diogomattos1/mvp-analise-dados/dataset/Team%20Summaries.csv)
 
 
