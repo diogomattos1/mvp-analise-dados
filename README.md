@@ -10,4 +10,5 @@ Arquivos do dataset:
 
 [Arquivo "Team Summaries"](https://raw.githubusercontent.com/diogomattos1/mvp-analise-dados/dataset/Team%20Summaries.csv)
 
+[Dataset completo](https://github.com/diogomattos1/mvp-analise-dados/tree/dataset)
 
